@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="http://cr.openjdk.java.net/~jeff/Duke/png/Hips.png" alt="java duke" style="width:10%;height:10%;display:inline;"/>
+<img src="http://cr.openjdk.java.net/~jeff/Duke/png/Hips.png" alt="java duke" style="width:10%;height:10%;display:inline-block;"/>
 <img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="scala-spiral" style="width:10%;height:10%;display:inline;"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/2560px-Haskell-Logo.svg.png" alt="haskell-logo" style="width:10%;height:10%;display: inline;"/>
 
