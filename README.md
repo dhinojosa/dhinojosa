@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **dhinojosa/dhinojosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="http://cr.openjdk.java.net/~jeff/Duke/png/Hips.png" alt="java duke" style="width:200px;height:200px;"/>
-<img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="java duke" style="width:200px;height:200px;"/>
-<img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63064c5652d40eda2eb7a838_33ac2334.png" alt="java duke" style="width:200px;height:200px;"/>
+<img src="http://cr.openjdk.java.net/~jeff/Duke/png/Hips.png" alt="java duke" style="width:200px;height:200px;display:inline-block;"/>
+<img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="scala-spiral" style="width:200px;height:200px;display: inline-block;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/2560px-Haskell-Logo.svg.png" alt="haskell-logo" style="width:200px;height:200px;display: inline-block;"/>
 
 ## About
 
@@ -25,9 +24,14 @@ Daniel Hinojosa is a programmer, consultant, instructor, speaker, and author. Wi
 
 ## Contact Information
 
-Website: [Website for Daniel Hinojosa](https://www.evolutionnex.com)
+Website: [Website for Daniel Hinojosa](https://www.evolutionnext.com)
+
 Email: [Mail Address for Daniel Hinojosa](mailto:dhinojosa@evolutionnext.com)
+
 Linked In: [LinkedIn Profile for Daniel Hinojosa](https://www.linkedin.com/in/dhevolutionnext)
+
 Stack Overflow: [Stack Overflow profile for Daniel Hinojosa](https://stackoverflow.com/users/631666/daniel-hinojosa)
+
 Mastodon: [Mastodon profile for Daniel Hinojosa](https://mastodon.social/@dhinojosa)
+
 Calendy: [Calendly for Daniel Hinojosa](https://calendly.com/dh-evolutionnext)
