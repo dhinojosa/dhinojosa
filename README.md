@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Java Duke](http://cr.openjdk.java.net/~jeff/Duke/png/Hips.png)
-![Scala Stairs](https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png)
-![Haskell Lambda](https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63064c5652d40eda2eb7a838_33ac2334.png)
+<img src="http://cr.openjdk.java.net/~jeff/Duke/png/Hips.png" alt="java duke" style="width:200px;height:200px;"/>
+<img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="java duke" style="width:200px;height:200px;"/>
+<img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63064c5652d40eda2eb7a838_33ac2334.png" alt="java duke" style="width:200px;height:200px;"/>
 
 ## About
 
