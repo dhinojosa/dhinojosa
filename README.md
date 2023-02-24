@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div style="background-color:light-grey;">
 <div>
 <img src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5c552589-8f4e-4d87-a637-d5943f7af722_509x509.png" alt="java duke" style="width:10%;height:10%;display:inline-block;margin-right:30px;"/>
 <img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="scala-spiral" style="width:7%;height:7%;display:inline-block;margin-right:10px;"/>
@@ -37,3 +37,4 @@ Stack Overflow: [Stack Overflow profile for Daniel Hinojosa](https://stackoverfl
 Mastodon: [Mastodon profile for Daniel Hinojosa](https://mastodon.social/@dhinojosa)
 
 Calendy: [Calendly for Daniel Hinojosa](https://calendly.com/dh-evolutionnext)
+</div>
